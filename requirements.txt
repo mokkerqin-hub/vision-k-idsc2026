@@ -12,3 +12,4 @@ lightgbm
 streamlit
 joblib
 reportlab
+altair<5
